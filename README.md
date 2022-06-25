@@ -13,4 +13,3 @@ I enjoy contributing to Open Source Projects. I am really enthusiastic about lea
 
 <h2> Doing masters in Data science 👩‍💻</h1>
 
-![image](https://user-images.githubusercontent.com/95338897/175778984-9678165a-2db0-40c7-96e2-25a82270badb.png)
