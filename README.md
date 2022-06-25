@@ -10,7 +10,7 @@ I enjoy contributing to Open Source Projects. I am really enthusiastic about lea
 <h2> Languages that i like 🙃🙃</h2>
 
 ![image](https://user-images.githubusercontent.com/95338897/175777373-3b583837-b347-4b55-91d8-d528f979ab40.png)
-![image](https://user-images.githubusercontent.com/95338897/175777533-d3bc7616-40f0-4679-99c4-a48bb6024c68.png)
+
 
 
 
