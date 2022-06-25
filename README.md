@@ -8,10 +8,9 @@ I am <b>Juned Inamdar</b>, a Full Stack Web Developer and Data scientis (trying 
 I enjoy contributing to Open Source Projects. I am really enthusiastic about learning new technology. In 2021, I learned <b>MERN stack, MEAN stack, Django and Backend Development</b>. My projects available at my <a href="https://github.com/junedSI"><b>Github Profile</b>.</a>
 
 <h2> Languages that i like 🙃🙃</h2> 
-![image](https://user-images.githubusercontent.com/95338897/175778432-4dcadf38-bbb8-4839-92d6-ca2fb4b24fbb.png)
-
 
 ![image](https://user-images.githubusercontent.com/95338897/175777373-3b583837-b347-4b55-91d8-d528f979ab40.png)
 
 
+![image](https://user-images.githubusercontent.com/95338897/175778446-8e59cb15-2849-4c27-b6f2-a04b97cd2d24.png)
 
