@@ -1,6 +1,6 @@
-# Hi there!
+<h1> Hi there!</h1>
 
-## About me!
+<h2> About me!</h2>
 
 👦 I am <b>Juned Inamdar</b>, a Full Stack Web Developer and Data scientis (trying to learn new things) and a [Freelancer] I am also Pursuing my masters in Data science and will graduate in mid-2023.
 
