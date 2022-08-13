@@ -1,8 +1,8 @@
 
 <h1> Hi there!</h1>
 
+![Untitled design (7)](https://user-images.githubusercontent.com/95338897/184471158-56f61592-2fde-4490-ba61-2e272c35a7d1.png)
 
-![Untitled design (6)](https://user-images.githubusercontent.com/95338897/184471053-cf30feae-4bb8-42af-801b-f9d4fd234bfc.png)
 
 
   
