@@ -7,7 +7,9 @@
 
   
   <h2> About me! 👦</h2>
+  
   ![Untitled design (3)](https://user-images.githubusercontent.com/95338897/184470477-7a77bbc1-5591-4919-b066-4596ca2cb28a.png)
+  
   I am <b>Juned Inamdar</b>, a Full Stack Web Developer and Data scientist (trying to learn new things) and a [Freelancer]. I am still Pursuing my masters in Data
   science and will graduate in mid-2023.
   
