@@ -33,7 +33,4 @@
   ![image](https://user-images.githubusercontent.com/95338897/175778560-5e52a57d-5f16-4d2d-8370-9595d9df27e0.png)
  
 
-<h2>Contact me.</h2>
-
-![Untitled design (3)](https://user-images.githubusercontent.com/95338897/184471687-0bd77583-cc86-477c-9230-02dc4066aa36.png)
 
