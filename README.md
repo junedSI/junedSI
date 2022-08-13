@@ -31,10 +31,7 @@
   <h2>Skill set 🙃.</h2>
   
   ![image](https://user-images.githubusercontent.com/95338897/175778560-5e52a57d-5f16-4d2d-8370-9595d9df27e0.png)
-  
-![Untitled design (9)](https://user-images.githubusercontent.com/95338897/184471680-fe175c2c-5aca-416e-85e4-62d773b0d34e.png)
-
-
+ 
 
 <h2>Contact me.</h2>
 
