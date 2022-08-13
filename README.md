@@ -26,7 +26,7 @@
    <h2> Data Science 🙃.</h2>
   
   ![Untitled design (1)](https://user-images.githubusercontent.com/95338897/184470226-c76dfe1e-6c77-481c-84f9-0458f4c0be3b.png) 
-![Untitled design (3)](https://user-images.githubusercontent.com/95338897/184471285-ef64ef23-b35e-4e8a-88d7-862ea814fab9.png)
+![Untitled design (2)](https://user-images.githubusercontent.com/95338897/184471300-bb900787-8702-447f-9579-d9aab9e285bb.png)
 
 
 <h2>Contact me.</h2>
