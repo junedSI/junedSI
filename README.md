@@ -8,12 +8,17 @@
   I am <b>Juned Inamdar</b>, a Full Stack Web Developer and Data scientist (trying to learn new things) and a [Freelancer]. I am still Pursuing my masters in Data
   science and will graduate in mid-2023.
   
-  
-  
+<div style="justify-content: space-between;display: flex;">
   <h2>What I do in free time👨‍💻</h2>
+  <div>
+    ajkbsdsdhkskfksb
+  </div>
+  <div>
+    kdjbjkbdsjkfbfkdbkjbdv
+  </div>
+</div>
   
-  ![Untitled design (4)](https://user-images.githubusercontent.com/95338897/184470651-d5771b89-f44c-4d93-8cb5-f2a2293c5a20.png)
-  
+   
   I enjoy contributing to Open Source Projects. I am really enthusiastic about learning new technology. In 2021, I learned <b>MERN stack, MEAN stack, Django and Backend 
   Development</b>. My projects available at my <a href="https://github.com/junedSI"><b>Github Profile</b>.</a>
 
