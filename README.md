@@ -17,8 +17,6 @@
 
   <h2>Doing masters in Data science👩‍💻.</h1>
   
-https://user-images.githubusercontent.com/95338897/184469444-f1f086c9-f4f4-4497-9b6d-43b7b9168532.mp4
+  ![Untitled design](https://user-images.githubusercontent.com/95338897/184470160-97065317-60a9-4c51-af8d-f812671f3909.png)
 
-
-  
-  <h2>Contact me.</h2>
+<h2>Contact me.</h2>
