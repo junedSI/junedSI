@@ -19,12 +19,18 @@
   I enjoy contributing to Open Source Projects. I am really enthusiastic about learning new technology. In 2021, I learned <b>MERN stack, MEAN stack, Django and Backend 
   Development</b>. My projects available at my <a href="https://github.com/junedSI"><b>Github Profile</b>.</a>
 
-  <h2> Languages that i like 🙃🙃.</h2> 
+  <h2>Why do I love coding🤔?</h2> 
+   <ul>
+        <li>I love to code because it is usable art.</li>
+        <li>I love to code because it is a team effort.</li>
+        <li>I love to code since it makes a difference in peoples’ lives.</li>
+        <li> I love to code because if I can think it, I can make it a reality.</li>
+        <li>I love to code because it is fun.</li>
+    </ul>
+   
+  <h2>Skill set 🙃.</h2>
   
   ![image](https://user-images.githubusercontent.com/95338897/175778560-5e52a57d-5f16-4d2d-8370-9595d9df27e0.png)
-  
-   <h2> Data Science 🙃.</h2>
-  
   ![Untitled design (1)](https://user-images.githubusercontent.com/95338897/184470226-c76dfe1e-6c77-481c-84f9-0458f4c0be3b.png) 
 ![Untitled design (2)](https://user-images.githubusercontent.com/95338897/184471300-bb900787-8702-447f-9579-d9aab9e285bb.png)
 
