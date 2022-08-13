@@ -12,9 +12,11 @@
   Development</b>. My projects available at my <a href="https://github.com/junedSI"><b>Github Profile</b>.</a>
 
   <h2> Languages that i like 🙃🙃.</h2> 
+  
   ![image](https://user-images.githubusercontent.com/95338897/175778560-5e52a57d-5f16-4d2d-8370-9595d9df27e0.png)
 
   <h2>Doing masters in Data science👩‍💻.</h1>
+  
   ![Scenes05](https://user-images.githubusercontent.com/95338897/184468734-8df6d957-b018-456f-b5ac-ed9fc222bd0c.svg)
   
   <h2>Contact me.</h2>
