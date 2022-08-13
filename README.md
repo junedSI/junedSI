@@ -31,10 +31,11 @@
   <h2>Skill set 🙃.</h2>
   
   ![image](https://user-images.githubusercontent.com/95338897/175778560-5e52a57d-5f16-4d2d-8370-9595d9df27e0.png)
-  ![Untitled design (1)](https://user-images.githubusercontent.com/95338897/184470226-c76dfe1e-6c77-481c-84f9-0458f4c0be3b.png) 
+  
+![Untitled design (9)](https://user-images.githubusercontent.com/95338897/184471680-fe175c2c-5aca-416e-85e4-62d773b0d34e.png)
 
 
 
 <h2>Contact me.</h2>
+![Untitled design (3)](https://user-images.githubusercontent.com/95338897/184471687-0bd77583-cc86-477c-9230-02dc4066aa36.png)
 
-![Untitled design (2)](https://user-images.githubusercontent.com/95338897/184471300-bb900787-8702-447f-9579-d9aab9e285bb.png)
