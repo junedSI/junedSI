@@ -1,6 +1,5 @@
-<div>
-  
-  <h1> Hi there!</h1>
+
+<h1> Hi there!</h1>
   
   <h2> About me! 👦</h2>
   I am <b>Juned Inamdar</b>, a Full Stack Web Developer and Data scientist (trying to learn new things) and a [Freelancer]. I am still Pursuing my masters in Data
@@ -19,6 +18,3 @@
   ![Scenes05](https://user-images.githubusercontent.com/95338897/184468734-8df6d957-b018-456f-b5ac-ed9fc222bd0c.svg)
   
   <h2>Contact me.</h2>
-
-
-</div>
