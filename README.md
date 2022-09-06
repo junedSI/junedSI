@@ -7,7 +7,7 @@
 
   
   <h2> About me! 👦</h2>
-  I am <b>Juned Inamdar</b>, a Full Stack Web Developer and Data scientist (trying to learn new things) and a [Freelancer]. I am still Pursuing my masters in Data
+  I am <b>Juned Inamdar</b>, a Full Stack Web Developer and Data scientist (trying to learn new things) and a [Freelancer]. I am Pursuing my masters in Data
   science and will graduate in mid-2023.
   
 
