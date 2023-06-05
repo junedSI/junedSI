@@ -1,7 +1,7 @@
 
 <!-- <h1> Hi there!</h1>
 
-![Untitled design (7)](https://user-images.githubusercontent.com/95338897/184471158-56f61592-2fde-4490-ba61-2e272c35a7d1.png)
+
 
 
 
@@ -34,6 +34,8 @@
   
   <h1 align="center">Hi 👋, I'm Juned</h1>
 <h3 align="center">A passionate solution creator from India.</h3>
+
+![Untitled design (7)](https://user-images.githubusercontent.com/95338897/184471158-56f61592-2fde-4490-ba61-2e272c35a7d1.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junedsi&label=Profile%20views&color=0e75b6&style=flat" alt="junedsi" /> </p>
 
