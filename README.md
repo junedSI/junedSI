@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Juned_Inamdar](https://medium.com/@Juned_Inamdar)
 
-- 💬 Ask me about **DBMS, Python,LARAVEL,AWS,C,HTML,CSS**
+- 💬 Ask me about **DBMS, Python, LARAVEL, AWS, C, HTML, CSS**
 
 - 📫 How to reach me **jinamdar4433@gmail.com**
 
