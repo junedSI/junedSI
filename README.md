@@ -118,19 +118,6 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junedsi&show_icons=true&locale=en&layout=compact" alt="junedsi" />
-</p>
-
-<p> 
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junedsi&show_icons=true&locale=en" alt="junedsi" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junedsi&" alt="junedsi" />
-</p>
-
 ---
 
 <p align="center">
