@@ -10,17 +10,31 @@
 
 ### About Me
 
-🌟 Passionate about leveraging AI to solve real-world problems and creating robust data solutions.
+🌟 Passionate about leveraging AI to solve complex challenges and driving data-driven decisions.
 
-📚 Currently diving deep into Snowflake and exploring advanced AI techniques.
+🎓 Master's in Computer Science with a specialization in AI and Machine Learning.
 
 ---
 
 ### What I Do
 
-- 🛠️ Build scalable data pipelines and AI models.
-- 📊 Analyze data to derive meaningful insights.
-- 📝 Write about technology and data on [Medium](https://medium.com/@Juned_Inamdar).
+- 🛠️ Design and deploy scalable data pipelines and AI solutions.
+- 📊 Perform advanced data analysis and predictive modeling.
+- 📝 Write insightful articles on [Medium](https://medium.com/@Juned_Inamdar) about AI, Data Engineering, and Cloud.
+
+---
+
+### Skills and Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Snowflake-Advanced-blue?logo=snowflake&logoColor=white" alt="Snowflake">
+  <img src="https://img.shields.io/badge/AWS-Proficient-orange?logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Deep Learning-Expert-purple" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Natural Language Processing-Advanced-green" alt="NLP">
+  <img src="https://img.shields.io/badge/Big Data Technologies-Proficient-yellow" alt="Big Data">
+  <img src="https://img.shields.io/badge/SQL & NoSQL Databases-Expert-blueviolet" alt="Databases">
+</p>
 
 ---
 
@@ -47,10 +61,10 @@
 
 ---
 
-### AI Animation
+### AI and Data Insights
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fQVz5O9CzThB1m39M4/giphy.gif" alt="AI Animation" width="400">
+  <img src="https://media.giphy.com/media/VGxY3HhbKhjnM/giphy.gif" alt="AI and Data Insights" width="400">
 </p>
 
 ---
@@ -58,8 +72,8 @@
 ### Technologies and Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Advanced-blue?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Snowflake-Expert-blue?logo=snowflake&logoColor=white" alt="Snowflake">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Snowflake-Advanced-blue?logo=snowflake&logoColor=white" alt="Snowflake">
   <img src="https://img.shields.io/badge/AWS-Proficient-orange?logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Medium-Author-brightgreen?logo=medium&logoColor=white" alt="Medium">
   <img src="https://img.shields.io/badge/GitHub-Enthusiast-lightgrey?logo=github&logoColor=white" alt="GitHub">
@@ -67,6 +81,6 @@
 
 ---
 
-### Let's Build Together!
+### Let's Build the Future of AI!
 
-<p align="center">Thanks for visiting! Let's build something awesome with AI and data.</p>
+<p align="center">Thanks for visiting! Let's innovate and transform with AI and data-driven solutions.</p>
