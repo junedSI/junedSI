@@ -1,34 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juned</h1>
 <h3 align="center">A passionate solution creator from India</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=junedsi&label=Profile%20views&color=0e75b6&style=flat" alt="junedsi" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=junedsi" alt="junedsi" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://medium.com/@Juned_Inamdar">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://twitter.com/i_junaid_ds">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://kaggle.com/junedinamdar">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://instagram.com/i__junaid__s">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.hackerrank.com/@jinamdar4433">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank"/>
-  </a>
-  <a href="https://www.leetcode.com/i_am_juned">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-</p>
-
 ---
 
 - 🔭 I’m currently working on **Data Engineering**
