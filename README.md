@@ -61,14 +61,6 @@
 
 ---
 
-### AI and Data Insights
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjHQApCpLZI9PWTy/giphy.gif" alt="AI and Data Insights" width="400">
-</p>
-
----
-
 ### Let's Build the Future of AI!
 
 <p align="center">Thanks for visiting! Let's innovate and transform with AI and data-driven solutions.</p>
