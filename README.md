@@ -64,19 +64,7 @@
 ### AI and Data Insights
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VGxY3HhbKhjnM/giphy.gif" alt="AI and Data Insights" width="400">
-</p>
-
----
-
-### Technologies and Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Snowflake-Advanced-blue?logo=snowflake&logoColor=white" alt="Snowflake">
-  <img src="https://img.shields.io/badge/AWS-Proficient-orange?logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Medium-Author-brightgreen?logo=medium&logoColor=white" alt="Medium">
-  <img src="https://img.shields.io/badge/GitHub-Enthusiast-lightgrey?logo=github&logoColor=white" alt="GitHub">
+  <img src="https://media.giphy.com/media/3oEjHQApCpLZI9PWTy/giphy.gif" alt="AI and Data Insights" width="400">
 </p>
 
 ---
