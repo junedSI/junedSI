@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juned</h1>
 <h3 align="center">A passionate solution creator from India</h3>
----
 
 - 🔭 I’m currently working on **Data Engineering**
 - 🌱 I’m currently learning **Snowflake**
