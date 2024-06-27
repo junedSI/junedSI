@@ -1,110 +1,72 @@
-<h1 align="center">Hi 👋, I'm Juned</h1>
-<h3 align="center">AI Engineer and Researcher | Data Engineer</h3>
+<h1 align="center">Hi there, I'm Juned! 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=junedsi&label=Profile%20views&color=0e75b6&style=flat" alt="junedsi" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=junedsi" alt="junedsi" />
-  </a>
-</p>
+<h3 align="center">AI Engineer and Data Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Data Engineering and AI Research.**
+---
 
-- 🌱 I’m currently learning **Snowflake and advanced AI techniques.**
+### About Me
 
-- 👯 I’m looking to collaborate on **AI and data engineering projects.**
+🌟 Passionate about leveraging AI to solve real-world problems and creating robust data solutions.
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@Juned_Inamdar)
+📚 Currently diving deep into Snowflake and exploring advanced AI techniques.
 
-- 💬 Ask me about **DBMS, Python, LARAVEL, AWS, AI, Data Engineering**
+---
 
-- 📫 How to reach me **jinamdar4433@gmail.com**
+### What I Do
 
-- ⚡ Fun fact **I learn things in a fun and engaging way.**
+- 🛠️ Build scalable data pipelines and AI models.
+- 📊 Analyze data to derive meaningful insights.
+- 📝 Write about technology and data on [Medium](https://medium.com/@Juned_Inamdar).
 
-### Latest Blog Posts
+---
+
+### Recent Blog Posts
+
 - [Microsoft Fabric Environment with Custom Python Libraries and UDFs](https://medium.com/@Juned_Inamdar/microsoft-fabric-environment-with-custom-python-libraries-and-udfs-645b6ad47476)
 - [Random Boost - The Concept](https://medium.com/@Juned_Inamdar/random-boost-the-concept-cc7cd9c49c01)
 
-### Connect with me
-<p align="left">
-  <a href="https://twitter.com/i_junaid_ds" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_junaid_ds" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/junedinamdar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="junedinamdar" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/i__junaid__s" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i__junaid__s" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@juned_inamdar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@juned_inamdar" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/@jinamdar4433" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jinamdar4433" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/i_am_juned" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_am_juned" height="30" width="40" />
-  </a>
-</p>
-
-### Languages and Tools
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junedsi&show_icons=true&locale=en&layout=compact" alt="junedsi" />
-</p>
-
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junedsi&show_icons=true&locale=en" alt="junedsi" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junedsi&" alt="junedsi" />
-</p>
-
 ---
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/junedinamdar">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="junedinamdar" />
-  </a>
-</p>
-
----
+### Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=junedsi" alt="junedsi" />
+  <a href="https://twitter.com/i_junaid_ds" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/i_junaid_ds?label=Follow%20me%20on%20Twitter&style=social" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/juned-inamdar/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue" alt="LinkedIn">
+  </a>
+  <a href="mailto:jinamdar4433@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20me-Get%20in%20touch-red" alt="Email">
   </a>
 </p>
+
+---
+
+### AI Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/fQVz5O9CzThB1m39M4/giphy.gif" alt="AI Animation" width="400">
+</p>
+
+---
+
+### Technologies and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Advanced-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Snowflake-Expert-blue?logo=snowflake&logoColor=white" alt="Snowflake">
+  <img src="https://img.shields.io/badge/AWS-Proficient-orange?logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Medium-Author-brightgreen?logo=medium&logoColor=white" alt="Medium">
+  <img src="https://img.shields.io/badge/GitHub-Enthusiast-lightgrey?logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+### Let's Build Together!
+
+<p align="center">Thanks for visiting! Let's build something awesome with AI and data.</p>
